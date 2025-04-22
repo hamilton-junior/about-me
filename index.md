@@ -20,7 +20,7 @@ Conhecimentos:
 
 ## O Que Você Vai Encontrar Aqui
 
-- Projetos simples e práticos, voltados para o suporte técnico e o universo gamer
+- Projetos simples e práticos, voltados para o suporte técnico e tech-savy people
 - Scripts que resolvem problemas do dia a dia
 - Experimentos com linguagens e ferramentas que estou aprendendo
 
